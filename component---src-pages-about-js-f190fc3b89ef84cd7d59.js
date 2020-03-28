@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{"3XHS":function(e,t,a){"use strict";a.r(t),a.d(t,"query",(function(){return l}));var n=a("q1tI"),r=a.n(n),u=a("Bl7J");t.default=function(e){var t=e.data;return r.a.createElement(u.a,null," about me",r.a.createElement("br",null)," changyeol baek ",t.site.siteMetadata.title)};var l="3538801111"}}]);
+//# sourceMappingURL=component---src-pages-about-js-f190fc3b89ef84cd7d59.js.map
